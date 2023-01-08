@@ -24,7 +24,6 @@ function timer() {
 
 }
 
-let x =0 ;
 function start() {
   if (interval) {
     return
